@@ -16,5 +16,5 @@
 ---
 #### Step 1(MAC): If you are a MAC user you need to install WINE first and then you can run the shell
 ---
-#### Dont worry about your programs it would be linux and Mac compatible but only the shell isnt compiled into linux and Mac binaries currently soon shell will also be compiled for other OS
+#### Dont worry about your programs it would be MAC compatible but only the shell isnt compiled into MAC binaries currently soon shell will also be compiled for MAC and other OS
 ---
