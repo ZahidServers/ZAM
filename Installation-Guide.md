@@ -10,7 +10,7 @@
 ---
 #### Step 1(Linux): If you are a Linux user you need to download the zamV2-4.tar.xz archive from '/v2-4_Downloads/Linux/' folder and extract it in desired location
 ---
-#### Step 2(Linux): After extracting you are done with it to run it you need to open your terminal cd into location where you extracted then cd into shell folder and then after that command type ./shell in terminal press enter now you are in ZAM shell if it takes time wait for slower machines it takes one to two minutes.
+#### Step 2(Linux): After extracting you are done with it to run it you need to open your terminal cd into location where you extracted then cd into shell folder and then after that command type ./shell in terminal press enter now you are in ZAM shell if it takes time wait for slower machines it takes upto 30secs to two minutes otherwise usally opened in less than 20sec.
 ---
 ### MAC Installation
 ---
